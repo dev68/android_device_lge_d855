@@ -11,4 +11,4 @@ ro.multisim.simslotcount=2
 ro.multisim.set_audio_params=true
 
 # Bluetooth
-qcom.bluetooth.soc=smd
+# qcom.bluetooth.soc=smd
